@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager\TaskManager.csproj", "{FC260CA6-17C1-4C61-BC4D-95288943DBDD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logger", "..\Logger\Logger\Logger.csproj", "{2F97CD65-3635-40AD-AC12-3BE30BF7FDBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC260CA6-17C1-4C61-BC4D-95288943DBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC260CA6-17C1-4C61-BC4D-95288943DBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC260CA6-17C1-4C61-BC4D-95288943DBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F97CD65-3635-40AD-AC12-3BE30BF7FDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F97CD65-3635-40AD-AC12-3BE30BF7FDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F97CD65-3635-40AD-AC12-3BE30BF7FDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F97CD65-3635-40AD-AC12-3BE30BF7FDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
